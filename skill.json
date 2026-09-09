@@ -1,0 +1,15 @@
+{
+  "name": "genpark-simd-vector-lane-engine-skill",
+  "version": "1.0.0",
+  "description": "AVX-512 / NEON-style SIMD vector lane emulation supporting masked fused multiply-add (FMA), horizontal reduction, and lane permutation blending.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "simd",
+    "vectorization",
+    "avx-512",
+    "parallel-computing"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
